@@ -77,7 +77,8 @@ public class FactorionNumber {
                 System.out.println(factorion);
             }
         }
-        ~~~
+
         scanner.close();
     }
 }
+~~~
